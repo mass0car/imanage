@@ -1,0 +1,3 @@
+interface StackDTO{
+  stack: number[];
+}

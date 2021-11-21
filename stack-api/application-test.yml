@@ -1,0 +1,2 @@
+# Setting stack size to 1 for testing 
+stack-size: 1

@@ -1,0 +1,3 @@
+interface PopDTO{
+  stack: number[];
+}

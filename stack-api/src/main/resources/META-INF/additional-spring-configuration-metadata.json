@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "stack-size",
+  "type": "java.lang.Integer",
+  "description": "This defines the maximum size of the stack to use for the application."
+}]}
